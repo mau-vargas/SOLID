@@ -372,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainBinds">
+  <component name="RunManager" selected="JUnit.MainBindsTest.testPenguinError">
     <configuration name="MainBinds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLID.LSP.MainBinds" />
       <module name="SOLID" />
@@ -452,9 +452,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainBindsTest.testPenguinError" />
         <item itemvalue="JUnit.MainBindsTest.testPenguinSuccess" />
         <item itemvalue="JUnit.MainBindsTest.testDuckSuccess" />
-        <item itemvalue="JUnit.MainBindsTest.testPenguinError" />
         <item itemvalue="Application.MainBinds" />
         <item itemvalue="JUnit.RectangleTest.testAreaRectangleSolution" />
       </list>
